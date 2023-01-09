@@ -13,7 +13,7 @@ class CustomerRepository
             return;
         }
 
-        _customers.Add(customer.Id, customer);
+        _customers[customer.Id] =  customer;
     }
     
     public Customer? GetById(Guid id)
@@ -29,8 +29,10 @@ class CustomerRepository
 
     public void Update(Customer? customer)
     {
-        _customers[customer.Id] = customer;
-        //return customer;
+        // ! bang prevents compiler nag re: possible null reference but does not handle it
+        if (customer is not null)           
+            _customers[customer.Id] = customer;
+        
     }
 
     public void Delete(Guid id)

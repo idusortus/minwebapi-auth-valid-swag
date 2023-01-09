@@ -8,15 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-  </ItemGroup>
-
-  <ItemGroup>
     <EditorConfigFiles Remove="C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\.editorconfig" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
 </Project>

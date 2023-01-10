@@ -30,3 +30,13 @@ C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\obj\Debug\net6.0\
 C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\obj\Debug\net6.0\MinimalApi-Auth-Valid.pdb
 C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\obj\Debug\net6.0\MinimalApi-Auth-Valid.genruntimeconfig.cache
 C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\obj\Debug\net6.0\ref\MinimalApi-Auth-Valid.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\FluentValidation.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\DEV\repos\lEARN\MinimalApi-Auth-Valid\MinimalApi-Auth-Valid\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
